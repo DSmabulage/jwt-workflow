@@ -15,3 +15,7 @@ git clone https://github.com/DSmabulage/jwt-workflow.git
 npm install
 node index.js
 ```
+
+## 3. Import the postman collection
+
+### Thank you....
