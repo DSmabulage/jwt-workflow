@@ -10,12 +10,22 @@
 git clone https://github.com/DSmabulage/jwt-workflow.git
 ```
 
-## 2. Navigate to project directory and run 
+## 3. Config .ENV file
+
+Add these variables to .ENV file
+
+```
+REFRESH_TOKEN_SECRET=<"Secret value">
+ACCESS_TOKEN_SECRET=<"Secret value">
+PORT=<"Local host port number">
+```
+
+## 4. Navigate to project directory and run 
 ```
 npm install
 node index.js
 ```
 
-## 3. Import the postman collection
+## 5. Import the postman collection
 
 ### Thank you....
